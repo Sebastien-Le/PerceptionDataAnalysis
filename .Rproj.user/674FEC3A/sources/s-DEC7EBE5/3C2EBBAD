@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/PerceptionDataAnalysis/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "1720069930",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1634653734270.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "1,57",
+        "cursorPosition": "11,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1634653846,
+    "lastKnownWriteTime": 1634661576,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1634653846683,
+    "last_content_update": 1634661576950,
     "read_only": false,
     "read_only_alternatives": []
 }

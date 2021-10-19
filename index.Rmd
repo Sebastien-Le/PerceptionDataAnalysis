@@ -5,13 +5,17 @@ title: "Analysis of perception, sensory and consumer data"
 <div class="row">
 <div class="col-sm-6">
 
-In this course I try to show how to collect survey data, as well as how to analyse them. We try to consider two main aspects of the concept of **measure**: the first one is when you collect the **measure**, the second one is when you analyse it. The measure, in other words *the way you want to differentiate your respondents*, has to be properly constructed and has to be in accordance with the research question of interest. Not to mention that the research question is just only an expression of a problem, an issue.
+The parable of the blind men and an elephant originated in the ancient Indian subcontinent, from where it has been widely diffused. It is a story of a group of blind men who have never come across an elephant before and who learn and imagine what the elephant is like by touching it. 
+
+Each blind man feels a different part of the elephant's body, but only one part, such as the side or the tusk. They then describe the elephant based on their limited experience and their descriptions of the elephant are different from each other. In some versions, they come to suspect that the other person is dishonest and they come to blows. 
+
+The moral of the parable is that humans have a tendency to claim absolute truth based on their limited, subjective experience as they ignore other people's limited, subjective experiences which may be equally true. (Wikipedia)
 
 </div>
 <div class="col-sm-6">
 
-```{r MCAIllu, out.width=350, echo=F,fig.cap="A New Model of Social Class? Findings from the BBC’s Great British Class Survey Experiment (M. Savage et al.)",fig.align='center'}
-knitr::include_graphics("images/MCAIllu.png")
+```{r MCAIllu, out.width=250, echo=F,fig.cap="Blind Men Appraising an Elephant (Ohara Donshu - Online Collection of Brooklyn Museum)",fig.align='center'}
+knitr::include_graphics("images/Ohara_Donshu.jpg")
 ```
 
 </div>
