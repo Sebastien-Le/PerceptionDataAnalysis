@@ -1,0 +1,9 @@
+name: "perception-website"
+navbar:
+  title: "Perception Data Analysis"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "syllabus"
+      href: syllabus.html
+output_dir: "."
